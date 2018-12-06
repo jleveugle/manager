@@ -11,6 +11,7 @@ import 'angular-resource';
 import translate from 'angular-translate';
 
 import core from '@ovh-ux/manager-core';
+import hello from '@ovh-ux/manager-hello';
 import overthebox from '@ovh-ux/manager-overthebox';
 import freefax from '@ovh-ux/manager-freefax';
 import sms from '@ovh-ux/manager-sms';
@@ -38,6 +39,7 @@ angular
     'atInternetUiRouterPlugin',
     core,
     freefax,
+    hello,
     navbar,
     'ng-at-internet',
     ngAria,

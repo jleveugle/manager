@@ -15,6 +15,7 @@
   "dependencies": {
     "@ovh-ux/manager-core": "^2.0.0",
     "@ovh-ux/manager-freefax": "^2.0.0",
+    "@ovh-ux/manager-hello": "^0.0.0",
     "@ovh-ux/manager-overthebox": "^2.0.0",
     "@ovh-ux/manager-sms": "^2.0.0",
     "@ovh-ux/manager-telecom-styles": "^2.0.2",
